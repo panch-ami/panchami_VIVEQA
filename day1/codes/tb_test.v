@@ -1,5 +1,5 @@
 // testbench for and gate
-// Create Date: 06/24/2026 04:34:51 PM
+// Create Date: 06/22/2026 04:34:51 PM
 `timescale 1ns / 1ps
 
 module tb_test(
