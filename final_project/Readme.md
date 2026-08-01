@@ -172,6 +172,5 @@ The FPGA transmits the computed route to a Python-based visualization interface,
 
 ---
 
-## 👨‍💻 Authors
-
-Developed as an FPGA-based implementation of **Dijkstra's Shortest Path Algorithm** using **Verilog HDL**, integrating hardware computation with a Python-based web application for interactive route visualization.
+## Demo
+link for video demo: https://l1nk.dev/cfqr1am
