@@ -173,4 +173,4 @@ The FPGA transmits the computed route to a Python-based visualization interface,
 ---
 
 ## Demo
-link for video demo: https://l1nk.dev/cfqr1am
+link for video demo: https://tinyurl.com/mv9hhabe
